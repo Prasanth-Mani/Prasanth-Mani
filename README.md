@@ -37,6 +37,7 @@
     <img src="./icons/React-Dark.svg" alt="React icon" width="50" height="50">
     <img src="./icons/NodeJS-Dark.svg" alt="NodeJS icon" width="50" height="50">
     <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS icon" width="50" height="50">
+    <img src="./icons/MongoDB.svg" alt="MongoDB icon" width="50" height="50">
 </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
@@ -45,7 +46,6 @@
     <img src="./icons/Github-Dark.svg" alt="Github icon" width="50" height="50">
     <img src="./icons/VSCode-Dark.svg" alt="VSCode icon" width="50" height="50">
     <img src="./icons/Postman.svg" alt="Postman icon" width="50" height="50">
-    <img src="./icons/MongoDB.svg" alt="MongoDB icon" width="50" height="50">
 </div>
 
 
